@@ -64,18 +64,17 @@ pip install -r requirements.txt
 
 Example questions:
 
-- **About the company:**
-  - "What are the opening hours?"
-  - "What is TrueTec's phone number?"
-- **Opening a technical support ticket:**
-  - "I want to open a support ticket."
-  - "My internet is down, I need help."
-- **Out of scope:**
-  - "What is the capital of France?"
-  - "Tell me a joke."
+- **Sobre a empresa:**
+  - "Qual o horário de funcionamento?"
+  - "Qual o telefone da TrueTec?"
+- **Abertura de chamado técnico:**
+  - "Quero abrir um chamado para suporte."
+  - "Minha internet caiu, preciso de ajuda."
+- **Fora do escopo:**
+  - "Qual a capital da França?"
+  - "Conte uma piada."
 
-To end the conversation, type `exit`.
-
+Para sair da conversa digite 'sair'.
 
 ## Project Structure
 
